@@ -44,3 +44,28 @@ table{
 #border{
     border: 2px solid black;
 }
+
+#bg-gray{
+    background-color: gray;
+}
+
+
+footer{
+    background-color: lightgray;
+}
+
+
+
+
+#list p{
+    display: flex;
+}
+
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+#paragrapgh{
+    line-height: 45px;
+}
